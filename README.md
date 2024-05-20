@@ -36,6 +36,7 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 - A secure e-signature platform for managing contracts and agreements.
 - Seamlessly connects with popular cloud storage solutions.
 - Allows signing directly from Gmail, Google Drive, and more.
+- [EverSign](https://eversign.com/)
 
 ### 2. Mockplus
 - Lists 41 best web design resources, including blogs, software, templates, color tools, typography, and icon resources.
