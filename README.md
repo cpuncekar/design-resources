@@ -40,6 +40,7 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 
 ### 2. Mockplus
 - Lists 41 best web design resources, including blogs, software, templates, color tools, typography, and icon resources.
+- [Mockup Plus](https://www.mockplus.com/blog/post/web-design-resource)
 
 ## Graphic Design Resources
 
