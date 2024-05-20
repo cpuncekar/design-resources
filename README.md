@@ -23,10 +23,12 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 ### 2. CursorUp
 - Offers free resources like icons, stock images, mockups, fonts, and illustrations.
 - Perfect for web and app designers.
+- [CursorUp](https://www.cursorup.com/)
 
 ### 3. GrayGrids
 - A collection of leading websites providing free, high-quality web and graphic design elements.
 - Includes UI kits and mockups.
+- [GrayGrids](https://graygrids.com/)
 
 ## Web Development Resources
 
