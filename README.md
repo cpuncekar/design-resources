@@ -47,6 +47,7 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 ### 1. Skillcrush
 - Comprehensive list of 99 free tools for web development and design.
 - Perfect for building your virtual toolbox.
+- [Skillcrush](https://skillcrush.com/new-homepage/)
 
 ---
 
