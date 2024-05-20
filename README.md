@@ -18,6 +18,7 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 - A powerful website maker with over 500+ beautifully designed templates.
 - Includes a logo maker and essential business apps.
 - User-friendly and packed with features.
+- [Wix](https://www.wix.com/)
 
 ### 2. CursorUp
 - Offers free resources like icons, stock images, mockups, fonts, and illustrations.
