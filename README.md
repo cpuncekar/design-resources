@@ -49,6 +49,9 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 - Perfect for building your virtual toolbox.
 - [Skillcrush](https://skillcrush.com/new-homepage/)
 
+
+### 4. Coursera
+- https://www.coursera.org/courses?query=web%20design
 ---
 
 ## Contributing
