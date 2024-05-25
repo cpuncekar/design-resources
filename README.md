@@ -57,6 +57,10 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 ### 4. EDX
 - [https://www.coursera.org/courses?query=web%20design](https://www.edx.org/)
 ---
+
+### 5. Udemy
+- [Udemy Design Courses] (https://www.udemy.com/courses/design/)
+
 ## Contributing
 
 Contributions are welcome! If you know of any additional resources, feel free to submit a pull request.
