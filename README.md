@@ -61,8 +61,9 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 ### 5. Udemy
 - [Udemy Design Courses] (https://www.udemy.com/courses/design/)
 
-### 5. Udemy
-- [Udemy Design Courses] (https://www.udemy.com/courses/design/)
+### 6. Coursera Graphic Design - University of Colorado Boulder 
+- [Coursera Graphic Design - University of Colorado Boulder ](https://www.coursera.org/learn/presentation-design#modules))
+- 29 Hour course on graphic design
 
 ## Contributing
 
