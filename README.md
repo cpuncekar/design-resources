@@ -61,6 +61,9 @@ Welcome to the Awesome Web Design and Development Resources repository! Here, yo
 ### 5. Udemy
 - [Udemy Design Courses] (https://www.udemy.com/courses/design/)
 
+### 5. Udemy
+- [Udemy Design Courses] (https://www.udemy.com/courses/design/)
+
 ## Contributing
 
 Contributions are welcome! If you know of any additional resources, feel free to submit a pull request.
